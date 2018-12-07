@@ -6,7 +6,7 @@
 ;; color scheme
 (define base00 #( 42  42  42))        ;; Background-Color
 (define base01 #(230  96  62))        ;; Background-Text-Color
-(define base02 #(230  96  62 5))      ;; Background-Match-Color
+(define base02 #(230  96  62 0.2))    ;; Background-Match-Color
 (define base03 #(255 200 142))        ;; Racket-Symbol
 (define base04 #(255 110  84))        ;; Racket-Keyword
 (define base05 #( 70 194 209))        ;; Racket-Comment/-String/-Text
