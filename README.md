@@ -17,3 +17,8 @@ Paste `https://github.com/DondiBronson/Funktionuckelt.git` in there and click _i
 
 From the package catalog:
 * is added soon:)
+
+How to select the color scheme
+------------------------------
+After installing the package you need to restart DrRacket.
+`_Preferences..._ -> _Colors_` and then click on Funktionuckelt Dark 
