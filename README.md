@@ -11,11 +11,9 @@ Installation
 Directly from GitHub:
 * `raco pkg install https://github.com/DondiBronson/Funktionuckelt.git`
 
-
 With the package manager:
 * download this repository, open DrRacket and click _Install Package..._ in the _File_ tab. 
 Paste `https://github.com/DondiBronson/Funktionuckelt.git` in there and click _install_
-
 
 From the package catalog:
 * is added soon:)
