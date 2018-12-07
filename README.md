@@ -1,6 +1,6 @@
 Funktionuckelt Dark Colorscheme for DrRacket
 =============================================
-![screenshot of syntax](https://imgur.com/a/DFm8c9q)
+![screenshot of syntax](https://i.imgur.com/nKXTqzv.png)
 This packet is a Dark Colorscheme for DrRacket, the IDE of the programming language [racket](https://racket-lang.org/).
 
 Note: this colorscheme was only tested on version 7.1
