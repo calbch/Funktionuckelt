@@ -21,4 +21,5 @@ From the package catalog:
 How to select the color scheme
 ------------------------------
 After installing the package you need to restart DrRacket.
-`Preferences... -> Colors` and then click on _Funktionuckelt Dark_ 
+
+`Preferences... -> Colors` and then click on _Funktionuckelt Dark_ .
